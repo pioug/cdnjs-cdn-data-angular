@@ -1,26 +1,26 @@
 {
-  "name": "google-cdn-data-angular",
-  "version": "0.6.1",
-  "description": "AngularJS Google CDN Data for google-cdn",
+  "name": "cdnjs-cdn-data-angular",
+  "version": "1.6.6",
+  "description": "AngularJS cdnjs Data for google-cdn",
   "main": "index.js",
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/laurent-le-graverend/google-cdn-data-angular.git"
+    "url": "git://github.com/pioug/cdnjs-cdn-data-angular.git"
   },
   "author": "Laurent Le Graverend",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/laurent-le-graverend/google-cdn-data-angular/issues"
+    "url": "https://github.com/pioug/cdnjs-cdn-data-angular/issues"
   },
-  "homepage": "https://github.com/laurent-le-graverend/google-cdn-data-angular",
+  "homepage": "https://github.com/pioug/cdnjs-cdn-data-angular",
   "keywords": [
     "cdn",
     "angular",
-    "google",
-    "google-cdn",
+    "cdnjs",
+    "cloudflare-cdn",
     "bower"
   ],
   "dependencies": {},
