@@ -1,6 +1,6 @@
 {
   "name": "cdnjs-cdn-data-angular",
-  "version": "1.6.6",
+  "version": "1.6.7",
   "description": "AngularJS cdnjs Data for google-cdn",
   "main": "index.js",
   "scripts": {
